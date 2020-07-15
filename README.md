@@ -8,4 +8,5 @@ Senior Data Scientist at BuzzFeed
 - pronouns: he/him
 - Personal website: http://brianclifton.io/
 - Twitter: https://twitter.com/BrianClifton_
+- Are.na: https://www.are.na/brian-clifton/
 - LinkedIn: https://www.linkedin.com/in/brian-clifton/
