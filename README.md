@@ -6,8 +6,13 @@ He has exhibited in museums and galleries across the world including The Shed, P
 
 He is currently a Senior Data Scientist at [BuzzFeed](https://github.com/buzzfeed).
 
-
 ---
+
+**Selected Projects**
+
+- White Collar Crime Risk Zones: https://whitecollar.thenewinquiry.com/
+- You Can Encrypt Your Face: https://thenewinquiry.com/you-can-encrypt-your-face/
+- World Leader Tips: http://uselesspress.org/things/world-leader-tips/
 
 **Contact**
 
@@ -16,9 +21,3 @@ He is currently a Senior Data Scientist at [BuzzFeed](https://github.com/buzzfee
 - Twitter: https://twitter.com/BrianClifton_
 - Are.na: https://www.are.na/brian-clifton/
 - LinkedIn: https://www.linkedin.com/in/brian-clifton/
-
-**Selected Projects**
-
-- White Collar Crime Risk Zones: https://whitecollar.thenewinquiry.com/
-- You Can Encrypt Your Face: https://thenewinquiry.com/you-can-encrypt-your-face/
-- World Leader Tips: http://uselesspress.org/things/world-leader-tips/
