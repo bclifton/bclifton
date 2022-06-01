@@ -18,6 +18,6 @@ He is currently a Principal Data Scientist at [Peacock](https://github.com/nbcu-
 
 - Personal website: http://brianclifton.io/
 - Email: b@brianclifton.io
-- Twitter: https://twitter.com/BrianClifton_
+- Twitter: [https://twitter.com/BrianClifton_](https://twitter.com/BrianClifton_)
 - Are.na: https://www.are.na/brian-clifton/
 - LinkedIn: https://www.linkedin.com/in/brian-clifton/
