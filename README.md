@@ -4,7 +4,7 @@ Born near Detroit in 1982, Brian Clifton lives and works in New York. Before his
 
 He has exhibited in museums and galleries across the world including Pioneer Works, the Hessel Museum of Art, and Ars Electronica. His work has been covered in the New York Times, Art Forum, the Wall Street Journal, Bloomberg, Fast Company, and elsewhere.
 
-He is currently a Staff Data Scientist at [BuzzFeed](https://github.com/buzzfeed).
+He is currently a Principal Data Scientist at [Peacock](https://github.com/nbcu-ds).
 
 ---
 
