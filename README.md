@@ -4,8 +4,6 @@ Born near Detroit in 1982, Brian Clifton lives and works in New York. Before his
 
 He has exhibited in museums and galleries across the world including Pioneer Works, the Hessel Museum of Art, and Ars Electronica. His work has been covered in the New York Times, Art Forum, the Wall Street Journal, Bloomberg, Fast Company, and elsewhere.
 
-He is currently a Principal Data Scientist at [Peacock](https://github.com/nbcu-ds).
-
 ---
 
 **Selected Projects**
@@ -18,6 +16,6 @@ He is currently a Principal Data Scientist at [Peacock](https://github.com/nbcu-
 
 - Personal website: http://brianclifton.io/
 - Email: b@brianclifton.io
-- Twitter: [https://twitter.com/BrianClifton_](https://twitter.com/BrianClifton_)
+- Bluesky: https://bsky.app/profile/brianclifton.bsky.social
 - Are.na: https://www.are.na/brian-clifton/
 - LinkedIn: https://www.linkedin.com/in/brian-clifton/
